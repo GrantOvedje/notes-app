@@ -1,0 +1,23 @@
+<svg width="782" height="701" viewBox="0 0 782 701" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background document -->
+  <rect x="250" y="150" width="400" height="500" rx="20" ry="20" stroke="black" fill="none" opacity="0.3"/>
+  <rect x="280" y="180" width="400" height="500" rx="20" ry="20" stroke="black" fill="none"/>
+  
+  <!-- Foreground document -->
+  <rect x="310" y="210" width="350" height="350" rx="20" ry="20" stroke="black" fill="white"/>
+  
+  <!-- Small squares at the top -->
+  <rect x="330" y="230" width="40" height="40" fill="gray"/>
+  <rect x="380" y="230" width="40" height="40" fill="gray"/>
+  <rect x="430" y="230" width="40" height="40" fill="black"/>
+
+  <!-- Lines representing text -->
+  <line x1="330" y1="300" x2="600" y2="300" stroke="black" stroke-width="5"/>
+  <line x1="330" y1="350" x2="550" y2="350" stroke="black" stroke-width="5"/>
+  <line x1="330" y1="400" x2="550" y2="400" stroke="black" stroke-width="5"/>
+
+  <!-- Add button -->
+  <circle cx="290" cy="500" r="50" fill="black"/>
+  <line x1="290" y1="470" x2="290" y2="530" stroke="white" stroke-width="10"/>
+  <line x1="260" y1="500" x2="320" y2="500" stroke="white" stroke-width="10"/>
+</svg>
